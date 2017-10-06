@@ -197,7 +197,7 @@ class CoursesJAVASCRIPT extends React.Component {
           <li className="row">
             <div className="col-sm-4 col-md-4">
               <img
-                classname="imgProfesore"
+                className="imgProfesore"
                 src="img/html/js1.png"
                 alt />
             </div>
