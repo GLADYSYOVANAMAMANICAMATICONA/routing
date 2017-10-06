@@ -94,28 +94,28 @@ class CoursesHTML extends React.Component {
       <div className="main-content">
         <ul>
           <li className="row">
-            <div className="col-sm-4">
+            <div className="col-sm-4 col-md-4">
               <img className="imgProfesore" src="img/html/html1.png" alt="" />
             </div>
-            <div className="col-sm-8">
+            <div className="col-sm-8 col-md-8">
               <h3>How to Make a Website</h3>
               <p>If you’ve never built a website before and you have no coding or design experience, this is the place to start. In this project, we learn how to build a modern portfolio website for desktops, tablets, and mobile devices. We start with basic HTML and CSS syntax. Next, we learn how to build custom web pages wit contact page. Finally, we walk through how to share a website live on the web.</p>
             </div>
           </li>
           <li className="row">
-            <div className="col-sm-4">
+            <div className="col-sm-4 col-md-4">
               <img className="imgProfesore" src="img/html/html2.png" alt="" />
             </div>
-            <div className="col-sm-8">
+            <div className="col-sm-8 col-md-8">
               <h3>Angie McAngular</h3>
               <p>The web is a two-way communication medium. There’s lots of HTML elements for displaying data and producing output, and conversely, there’s also lots of HTML elements for accepting input. Accepting input from the user means creating web forms. In this course, we’ll learn about all the most important form elements that web professionals use on a daily basis.</p>
             </div>
           </li>
           <li className="row">
-            <div className="col-sm-4">
+            <div className="col-sm-4 col-md-4">
               <img className="imgProfesore" src="img/html/html3.png" alt="" />
             </div>
-            <div className="col-sm-8">
+            <div className="col-sm-8 col-md-8">
               <h3>Angie McAngular</h3>
               <p>Text and images have always been the foundation of web content, but more than ever, video and audio are also a part of that content mix. Fortunately, we can now create standards-based video and audio players that don't require the use of plugins. Adding video and audio to a webpage is almost as easy asg an image or formatting some text.</p>
             </div>
@@ -132,13 +132,13 @@ class CoursesCSS extends React.Component {
       <div className="main-content">
         <ul>
           <li className="row">
-            <div className="col-sm-4">
+            <div className="col-sm-4 col-md-4">
               <img
                 className="imgProfesore"
                 src="img/html/css1.png"
                 alt />
             </div>
-            <div className="col-sm-8">
+            <div className="col-sm-8 col-md-8">
               <h3>
                 CSS Basics
               </h3>
@@ -148,13 +148,13 @@ class CoursesCSS extends React.Component {
             </div>
           </li>
           <li className="row">
-            <div className="col-sm-4">
+            <div className="col-sm-4 col-md-4">
               <img
                 className="imgProfesore"
                 src="img/html/css2.png"
                 alt />
             </div>
-            <div className="col-sm-8">
+            <div className="col-sm-8 col-md-8">
               <h3>
                 CSS Selectors
               </h3>
@@ -165,13 +165,13 @@ class CoursesCSS extends React.Component {
             </div>
           </li>
           <li className="row">
-            <div className="col-sm-4">
+            <div className="col-sm-4 col-md-4">
               <img
                 className="imgProfesore"
                 src="img/html/css3.png"
                 alt />
             </div>
-            <div className="col-sm-8">
+            <div className="col-sm-8 col-md-8">
               <h3>
                 Responsive Layouts
               </h3>
@@ -195,13 +195,13 @@ class CoursesJAVASCRIPT extends React.Component {
       <div className="main-content">
         <ul>
           <li className="row">
-            <div className="col-sm-4">
+            <div className="col-sm-4 col-md-4">
               <img
                 classname="imgProfesore"
                 src="img/html/js1.png"
                 alt />
             </div>
-            <div className="col-sm-8">
+            <div className="col-sm-8 col-md-8">
               <h3>
                 JavaScript Basics
               </h3>
@@ -211,13 +211,13 @@ class CoursesJAVASCRIPT extends React.Component {
             </div>
           </li>
           <li className="row">
-            <div className="col-sm-4">
+            <div className="col-sm-4 col-md-4">
               <img
                 className="imgProfesore"
                 src="img/html/js2.png"
                 alt />
             </div>
-            <div className="col-sm-8">
+            <div className="col-sm-8 col-md-8">
               <h3>
                 JavaScript Loops, Arrays and Objects
               </h3>
@@ -227,13 +227,13 @@ class CoursesJAVASCRIPT extends React.Component {
             </div>
           </li>
           <li className="row">
-            <div className="col-sm-4">
+            <div className="col-sm-4 col-md-4">
               <img
                 className="imgProfesore"
                 src="img/html/js3.png"
                 alt />
             </div>
-            <div className="col-sm-8">
+            <div className="col-sm-8  col-md-8">
               <h3>
                 jQuery Basics
               </h3>
