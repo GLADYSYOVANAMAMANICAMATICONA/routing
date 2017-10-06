@@ -49,7 +49,7 @@ class Teachers extends React.Component {
           with new tech!</p>
           </li>
           <li className="col-sm-6">
-            <img className="imgProfesore" src="img/nodeStradamus.png" alt="" />
+            <img className="imgProfesore" src="img/nodes.png" alt="" />
             <h3>NodeStradamus</h3>
             <p>'NodeStra' is a software engineer and philosopher trying to leave
               the world better than he found it. He codes for non-profits, eCommerce,
