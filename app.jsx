@@ -43,7 +43,6 @@ class Teachers extends React.Component {
           <h2>Teachers</h2>
           <li className="col-sm-6">
             <img className="imgProfesore" src="img/angie.png" alt="" />
-
             <h3>Angie McAngular</h3>
             <p>Angie is a web developer and teacher who is passionate about building
           scalable, data driven web apps, especially ones that address old problems
