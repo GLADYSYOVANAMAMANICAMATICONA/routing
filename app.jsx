@@ -39,7 +39,7 @@ class Teachers extends React.Component {
   render() {
     return (
       <div className="main-content">
-        <ul>
+        <ul className="row">
           <h2>Teachers</h2>
           <li className="col-sm-6">
             <img className="imgProfesore" src="img/angie.png" alt="" />
