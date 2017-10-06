@@ -284,10 +284,7 @@ class Courses extends React.Component {
         </ul>
         <Child />
       </div>
-      
-
     );
-
   }
 }
 
@@ -298,11 +295,8 @@ class App extends React.Component {
       route: window.location.hash.substr(1)
     };
   }
-  //  $(document).ready ()
   componentDidMount() {
     window.addEventListener('hashchange', () => {
-      //<a href="#/about">About</a>
-      //<li><a href='#/repos/html'>HTML</a></li>
       console.log(window.location.hash.substr(1));
 
       this.setState({
