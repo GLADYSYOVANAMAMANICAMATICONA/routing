@@ -129,39 +129,61 @@ class CoursesHTML extends React.Component {
 class CoursesCSS extends React.Component {
   render() {
     return (
-      <div className="main-content">
+      <div classname="main-content">
         <ul>
           <li>
-            <div className="col-sm-4">
-              <img className="imgProfesore" src="img/badges_css_basics_stage6.png" alt="" />
+            <div classname="col-sm-4">
+              <img
+                classname="imgProfesore"
+                src="img/badges_css_basics_stage6.png"
+                alt />
             </div>
-            <div className="col-sm-8">
-              <h3>CSS Basics</h3>
-              <p>CSS (Cascading Style Sheets) is a style sheet language that describes the presentation of web pages. Whereas HTML is what forms the structure of a web page, CSS is what we use to style the HTML with colors, backgrounds, font sizes, layout, and more. As you'll soon learn, CSS is one of the core technologies for designing and building websites.</p>
-            </div>
-          </li>
-          <li>
-            <div className="col-sm-4">
-              <img className="imgProfesore" src="img/img/badges_css_selectors_stage01.png" alt="" />
-            </div>
-            <div className="col-sm-8">
-              <h3>CSS Selectors</h3>
-              <p>In this course, we're going to go beyond the basic selector concepts covered in CSS Basics. Besides the common ways to select elements with type, ID and class selectors, we're able to target
-                   elements based position in the HTML document, even their relation to other elements.</p>
+            <div classname="col-sm-8">
+              <h3>
+                CSS Basics
+</h3>
+              <p>
+                CSS (Cascading Style Sheets) is a style sheet language that describes the presentation of web pages. Whereas HTML is what forms the structure of a web page, CSS is what we use to style the HTML with colors, backgrounds, font sizes, layout, and more. As you'll soon learn, CSS is one of the core technologies for designing and building websites.
+</p>
             </div>
           </li>
           <li>
-            <div className="col-sm-4">
-              <img className="imgProfesore" src="img/img/badges-CSS-ResponsiveLayouts-stage3.png" alt="" />
+            <div classname="col-sm-4">
+              <img
+                classname="imgProfesore"
+                src="img/img/badges_css_selectors_stage01.png"
+                alt />
             </div>
-            <div className="col-sm-8">
-              <h3>Responsive Layouts</h3>
-              <p>Responsive web design is a collection of techniques for building websites that work on multiple screen sizes. In these lessons, we're going to use the foundational principles of responsive design as a framework for thinking about page layout. By the end, you should
-                  have a better understanding of how to approach common decisions in responsive design.</p>
+            <div classname="col-sm-8">
+              <h3>
+                CSS Selectors
+</h3>
+              <p>
+                In this course, we're going to go beyond the basic selector concepts covered in CSS Basics. Besides the common ways to select elements with type, ID and class selectors, we're able to target
+                elements based position in the HTML document, even their relation to other elements.
+</p>
+            </div>
+          </li>
+          <li>
+            <div classname="col-sm-4">
+              <img
+                classname="imgProfesore"
+                src="img/img/badges-CSS-ResponsiveLayouts-stage3.png"
+                alt />
+            </div>
+            <div classname="col-sm-8">
+              <h3>
+                Responsive Layouts
+</h3>
+              <p>
+                Responsive web design is a collection of techniques for building websites that work on multiple screen sizes. In these lessons, we're going to use the foundational principles of responsive design as a framework for thinking about page layout. By the end, you should
+                have a better understanding of how to approach common decisions in responsive design.
+</p>
             </div>
           </li>
         </ul>
       </div>
+
     );
   }
 }
@@ -170,68 +192,100 @@ class CoursesCSS extends React.Component {
 class CoursesJAVASCRIPT extends React.Component {
   render() {
     return (
-      <div className="main-content">
+      <div classname="main-content">
         <ul>
           <li>
-            <div className="col-sm-4">
-              <img className="imgProfesore" src="img/img/badges_JavaScript_Basics_Stage1.png" alt="" />
+            <div classname="col-sm-4">
+              <img
+                classname="imgProfesore"
+                src="img/img/badges_JavaScript_Basics_Stage1.png"
+                alt />
             </div>
-            <div className="col-sm-8">
-              <h3>JavaScript Basics</h3>
-              <p>JavaScript is a programming language that drives the web: from front-end user interface design, to backend server-side programming, you'll find JavaScript at every stage of a web site and web application. In this course, you'll learn the fundamental programming concepts and syntax of the JavaScript programming language.</p>
-            </div>
-          </li>
-          <li>
-            <div className="col-sm-4">
-              <img className="imgProfesore" src="img/img/badges_JavaScript_Basics_Stage5.png" alt="" />
-            </div>
-            <div className="col-sm-8">
-              <h3>JavaScript Loops, Arrays and Objects</h3>
-              <p>Storing, tracking and handling data is a large part of computer programming. Arrays provide a method for storing multiple values into a single variable. That makes an array a convenient way to pass around a list of items.</p>
+            <div classname="col-sm-8">
+              <h3>
+                JavaScript Basics
+</h3>
+              <p>
+                JavaScript is a programming language that drives the web: from front-end user interface design, to backend server-side programming, you'll find JavaScript at every stage of a web site and web application. In this course, you'll learn the fundamental programming concepts and syntax of the JavaScript programming language.
+</p>
             </div>
           </li>
           <li>
-            <div className="col-sm-4">
-              <img className="imgProfesore" src="img/img/badges_JavaScript_jQueryBasics_Stage1.png" alt="" />
+            <div classname="col-sm-4">
+              <img
+                classname="imgProfesore"
+                src="img/img/badges_JavaScript_Basics_Stage5.png"
+                alt />
             </div>
-            <div className="col-sm-8">
-              <h3>jQuery Basics</h3>
-              <p>jQuery Basics covers why you'd want to use jQuery, what it is and how to include it in your projects. You'll build several projects over the course to give you the confidence to integrate jQuery in your own projects and add that level of flair and interactivity to any site you work on.</p>
+            <div classname="col-sm-8">
+              <h3>
+                JavaScript Loops, Arrays and Objects
+</h3>
+              <p>
+                Storing, tracking and handling data is a large part of computer programming. Arrays provide a method for storing multiple values into a single variable. That makes an array a convenient way to pass around a list of items.
+</p>
+            </div>
+          </li>
+          <li>
+            <div classname="col-sm-4">
+              <img
+                classname="imgProfesore"
+                src="img/img/badges_JavaScript_jQueryBasics_Stage1.png"
+                alt />
+            </div>
+            <div classname="col-sm-8">
+              <h3>
+                jQuery Basics
+</h3>
+              <p>
+                jQuery Basics covers why you'd want to use jQuery, what it is and how to include it in your projects. You'll build several projects over the course to give you the confidence to integrate jQuery in your own projects and add that level of flair and interactivity to any site you work on.
+</p>
             </div>
           </li>
         </ul>
       </div>
+
     );
   }
 }
 
 class Courses extends React.Component {
   render() {
+    const { route } = this.props;
+    let Child;
+    switch (route) {
 
-    // switch (route) {
+      case 'css':
+        Child = CoursesCSS;
+        break;
+      case 'javascript':
+        Child = CoursesJAVASCRIPT;
 
-    //   case 'css':
-    //     Child = CoursesCSS;
-    //     break;
-    //   case 'javascript':
-    //     Child = CoursesJAVASCRIPT;
-
-    //     break;
-    //   default: //'html'
-    //     Child = CoursesHTML;
-    //     break;
-    // }
+        break;
+      default: //'html'
+        Child = CoursesHTML;
+        break;
+    }
 
     return (
-      <div className="main-content courses">
-        <hr/>
-        <ul >
-          <button className="col-sm-6 btn btn-default courses" >Courses</button>
-          <button className="col-sm-2 btn btn-primary"><a href='#/courses/html'>HTML</a></button>
-          <button className="col-sm-2 btn btn-primary"><a href='#/courses/css'>CSS</a></button>
-          <button className="col-sm-2 btn btn-primary "><a href='#/courses/javascript'>JavaScript</a></button>
+      <div classname="main-content courses">
+        <hr />
+        <ul>
+          <button className="col-sm-6 btn btn-default courses">Courses</button>
+          <button className="col-sm-2 btn btn-primary">
+            <a href="#/courses/html">HTML</a>
+          </button>
+          <button className="col-sm-2 btn btn-primary">
+            <a href="#/courses/css">CSS</a>
+          </button>
+          <button className="col-sm-2 btn btn-primary ">
+            <a href="#/courses/javascript">JavaScript</a>
+          </button>
         </ul>
+        <Child />
       </div>
+      
+
     );
 
   }
@@ -275,18 +329,18 @@ class App extends React.Component {
       case '/courses':
         Child = Courses;
         break;
-      // case '/courses/html':
-      //   Child = Courses;
-      //   propsForRepos = 'CoursesHTML';
-      //   break;
-      // case '/courses/css':
-      //   Child = Courses;
-      //   propsForRepos = 'css';
-      //   break;
-      // case '/courses/javascript':
-      //   Child = Courses;
-      //   propsForRepos = 'javascript';
-      //   break;
+      case '/courses/html':
+        Child = Courses;
+        propsForRepos = 'CoursesHTML';
+        break;
+      case '/courses/css':
+        Child = Courses;
+        propsForRepos = 'css';
+        break;
+      case '/courses/javascript':
+        Child = Courses;
+        propsForRepos = 'javascript';
+        break;
       default:
         Child = Home;
     }
