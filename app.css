@@ -61,6 +61,10 @@ button a{
   color: rgb(255, 255, 255);
 }
 
+p{
+  text-align: justify;
+}
+
 /* .scoreboard {
   background: #333;
   width: 700px;
