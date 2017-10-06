@@ -9,18 +9,12 @@ menu{
   width: 100%;
 }
 
-#container{
-  width: 80%;
-  height: 1500px;
-  background-color: rgb(255, 255, 255);
-  margin-top: 3%;
-  padding: 8%;
-  padding-top: 0PX;
-  border-radius: 10px;
-} 
+button a{
+  color: rgb(255, 255, 255);
+}
 
-.imgProfesore{
-  width: 100%;
+p{
+  text-align: justify;
 }
 
 img{
@@ -57,13 +51,19 @@ li{
   padding-top: 5%;
 }
 
-button a{
-  color: rgb(255, 255, 255);
+.imgProfesore{
+  width: 100%;
 }
 
-p{
-  text-align: justify;
-}
+#container{
+  width: 80%;
+  height: 1500px;
+  background-color: rgb(255, 255, 255);
+  margin-top: 3%;
+  padding: 8%;
+  padding-top: 0PX;
+  border-radius: 10px;
+} 
 
 /* .scoreboard {
   background: #333;
