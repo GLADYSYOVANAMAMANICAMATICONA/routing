@@ -95,7 +95,7 @@ class CoursesHTML extends React.Component {
         <ul>
           <li>
             <div className="col-sm-4">
-              <img className="imgProfesore" src="html/img/badges_html_forms_stage1.png" alt="" />
+              <img className="imgProfesore" src="img/html/html1.png" alt="" />
             </div>
             <div className="col-sm-8">
               <h3>How to Make a Website</h3>
@@ -104,7 +104,7 @@ class CoursesHTML extends React.Component {
           </li>
           <li>
             <div className="col-sm-4">
-              <img className="imgProfesore" src="img/img/badges-html-videoaudio-stage1.png" alt="" />
+              <img className="imgProfesore" src="img/html/html2.png" alt="" />
             </div>
             <div className="col-sm-8">
               <h3>Angie McAngular</h3>
@@ -113,7 +113,7 @@ class CoursesHTML extends React.Component {
           </li>
           <li>
             <div className="col-sm-4">
-              <img className="imgProfesore" src="img/img/bagdes_html_howtobuildawebsite_stage02.png" alt="" />
+              <img className="imgProfesore" src="img/html/html3.png" alt="" />
             </div>
             <div className="col-sm-8">
               <h3>Angie McAngular</h3>
@@ -129,16 +129,16 @@ class CoursesHTML extends React.Component {
 class CoursesCSS extends React.Component {
   render() {
     return (
-      <div classname="main-content">
+      <div className="main-content">
         <ul>
           <li>
-            <div classname="col-sm-4">
+            <div className="col-sm-4">
               <img
-                classname="imgProfesore"
-                src="img/badges_css_basics_stage6.png"
+                className="imgProfesore"
+                src="img/html/css1.png"
                 alt />
             </div>
-            <div classname="col-sm-8">
+            <div className="col-sm-8">
               <h3>
                 CSS Basics
 </h3>
@@ -148,13 +148,13 @@ class CoursesCSS extends React.Component {
             </div>
           </li>
           <li>
-            <div classname="col-sm-4">
+            <div className="col-sm-4">
               <img
-                classname="imgProfesore"
-                src="img/img/badges_css_selectors_stage01.png"
+                className="imgProfesore"
+                src="img/html/css2.png"
                 alt />
             </div>
-            <div classname="col-sm-8">
+            <div className="col-sm-8">
               <h3>
                 CSS Selectors
 </h3>
@@ -165,13 +165,13 @@ class CoursesCSS extends React.Component {
             </div>
           </li>
           <li>
-            <div classname="col-sm-4">
+            <div className="col-sm-4">
               <img
-                classname="imgProfesore"
-                src="img/img/badges-CSS-ResponsiveLayouts-stage3.png"
+                className="imgProfesore"
+                src="img/html/css3.png"
                 alt />
             </div>
-            <div classname="col-sm-8">
+            <div className="col-sm-8">
               <h3>
                 Responsive Layouts
 </h3>
@@ -192,16 +192,16 @@ class CoursesCSS extends React.Component {
 class CoursesJAVASCRIPT extends React.Component {
   render() {
     return (
-      <div classname="main-content">
+      <div className="main-content">
         <ul>
           <li>
-            <div classname="col-sm-4">
+            <div className="col-sm-4">
               <img
                 classname="imgProfesore"
-                src="img/img/badges_JavaScript_Basics_Stage1.png"
+                src="img/html/js1.png"
                 alt />
             </div>
-            <div classname="col-sm-8">
+            <div className="col-sm-8">
               <h3>
                 JavaScript Basics
 </h3>
@@ -211,13 +211,13 @@ class CoursesJAVASCRIPT extends React.Component {
             </div>
           </li>
           <li>
-            <div classname="col-sm-4">
+            <div className="col-sm-4">
               <img
-                classname="imgProfesore"
-                src="img/img/badges_JavaScript_Basics_Stage5.png"
+                className="imgProfesore"
+                src="img/html/js2.png"
                 alt />
             </div>
-            <div classname="col-sm-8">
+            <div className="col-sm-8">
               <h3>
                 JavaScript Loops, Arrays and Objects
 </h3>
@@ -227,13 +227,13 @@ class CoursesJAVASCRIPT extends React.Component {
             </div>
           </li>
           <li>
-            <div classname="col-sm-4">
+            <div className="col-sm-4">
               <img
-                classname="imgProfesore"
-                src="img/img/badges_JavaScript_jQueryBasics_Stage1.png"
+                className="imgProfesore"
+                src="img/html/js3.png"
                 alt />
             </div>
-            <div classname="col-sm-8">
+            <div className="col-sm-8">
               <h3>
                 jQuery Basics
 </h3>
