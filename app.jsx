@@ -93,7 +93,7 @@ class CoursesHTML extends React.Component {
     return (
       <div className="main-content">
         <ul>
-          <li>
+          <li className="row">
             <div className="col-sm-4">
               <img className="imgProfesore" src="img/html/html1.png" alt="" />
             </div>
@@ -102,7 +102,7 @@ class CoursesHTML extends React.Component {
               <p>If you’ve never built a website before and you have no coding or design experience, this is the place to start. In this project, we learn how to build a modern portfolio website for desktops, tablets, and mobile devices. We start with basic HTML and CSS syntax. Next, we learn how to build custom web pages wit contact page. Finally, we walk through how to share a website live on the web.</p>
             </div>
           </li>
-          <li>
+          <li className="row">
             <div className="col-sm-4">
               <img className="imgProfesore" src="img/html/html2.png" alt="" />
             </div>
@@ -111,7 +111,7 @@ class CoursesHTML extends React.Component {
               <p>The web is a two-way communication medium. There’s lots of HTML elements for displaying data and producing output, and conversely, there’s also lots of HTML elements for accepting input. Accepting input from the user means creating web forms. In this course, we’ll learn about all the most important form elements that web professionals use on a daily basis.</p>
             </div>
           </li>
-          <li>
+          <li className="row">
             <div className="col-sm-4">
               <img className="imgProfesore" src="img/html/html3.png" alt="" />
             </div>
@@ -131,7 +131,7 @@ class CoursesCSS extends React.Component {
     return (
       <div className="main-content">
         <ul>
-          <li>
+          <li className="row">
             <div className="col-sm-4">
               <img
                 className="imgProfesore"
@@ -141,13 +141,13 @@ class CoursesCSS extends React.Component {
             <div className="col-sm-8">
               <h3>
                 CSS Basics
-</h3>
+              </h3>
               <p>
                 CSS (Cascading Style Sheets) is a style sheet language that describes the presentation of web pages. Whereas HTML is what forms the structure of a web page, CSS is what we use to style the HTML with colors, backgrounds, font sizes, layout, and more. As you'll soon learn, CSS is one of the core technologies for designing and building websites.
-</p>
+              </p>
             </div>
           </li>
-          <li>
+          <li className="row">
             <div className="col-sm-4">
               <img
                 className="imgProfesore"
@@ -157,14 +157,14 @@ class CoursesCSS extends React.Component {
             <div className="col-sm-8">
               <h3>
                 CSS Selectors
-</h3>
+              </h3>
               <p>
                 In this course, we're going to go beyond the basic selector concepts covered in CSS Basics. Besides the common ways to select elements with type, ID and class selectors, we're able to target
                 elements based position in the HTML document, even their relation to other elements.
-</p>
+              </p>
             </div>
           </li>
-          <li>
+          <li className="row">
             <div className="col-sm-4">
               <img
                 className="imgProfesore"
@@ -174,11 +174,11 @@ class CoursesCSS extends React.Component {
             <div className="col-sm-8">
               <h3>
                 Responsive Layouts
-</h3>
+              </h3>
               <p>
                 Responsive web design is a collection of techniques for building websites that work on multiple screen sizes. In these lessons, we're going to use the foundational principles of responsive design as a framework for thinking about page layout. By the end, you should
                 have a better understanding of how to approach common decisions in responsive design.
-</p>
+              </p>
             </div>
           </li>
         </ul>
@@ -194,7 +194,7 @@ class CoursesJAVASCRIPT extends React.Component {
     return (
       <div className="main-content">
         <ul>
-          <li>
+          <li className="row">
             <div className="col-sm-4">
               <img
                 classname="imgProfesore"
@@ -204,13 +204,13 @@ class CoursesJAVASCRIPT extends React.Component {
             <div className="col-sm-8">
               <h3>
                 JavaScript Basics
-</h3>
+              </h3>
               <p>
                 JavaScript is a programming language that drives the web: from front-end user interface design, to backend server-side programming, you'll find JavaScript at every stage of a web site and web application. In this course, you'll learn the fundamental programming concepts and syntax of the JavaScript programming language.
-</p>
+              </p>
             </div>
           </li>
-          <li>
+          <li className="row">
             <div className="col-sm-4">
               <img
                 className="imgProfesore"
@@ -220,13 +220,13 @@ class CoursesJAVASCRIPT extends React.Component {
             <div className="col-sm-8">
               <h3>
                 JavaScript Loops, Arrays and Objects
-</h3>
+              </h3>
               <p>
                 Storing, tracking and handling data is a large part of computer programming. Arrays provide a method for storing multiple values into a single variable. That makes an array a convenient way to pass around a list of items.
-</p>
+              </p>
             </div>
           </li>
-          <li>
+          <li className="row">
             <div className="col-sm-4">
               <img
                 className="imgProfesore"
