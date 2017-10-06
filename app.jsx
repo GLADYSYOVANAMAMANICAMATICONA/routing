@@ -236,10 +236,10 @@ class CoursesJAVASCRIPT extends React.Component {
             <div className="col-sm-8">
               <h3>
                 jQuery Basics
-</h3>
+              </h3>
               <p>
                 jQuery Basics covers why you'd want to use jQuery, what it is and how to include it in your projects. You'll build several projects over the course to give you the confidence to integrate jQuery in your own projects and add that level of flair and interactivity to any site you work on.
-</p>
+              </p>
             </div>
           </li>
         </ul>
