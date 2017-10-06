@@ -15,6 +15,7 @@ menu{
   background-color: rgb(255, 255, 255);
   margin-top: 3%;
   padding: 8%;
+  padding-top: 0PX;
   border-radius: 10px;
 } 
 
@@ -23,7 +24,7 @@ menu{
 }
 
 img{
-  width: 30%;
+  width: 25%;
 }
 
 li > .imgLaboratoria{
@@ -47,6 +48,7 @@ li{
 .courses{
   color: rgb(0, 0, 0);
 }
+ 
 
 
 /* .scoreboard {
