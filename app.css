@@ -11,7 +11,7 @@ menu{
 
 #container{
   width: 80%;
-  height: 1100px;
+  height: 1500px;
   background-color: rgb(255, 255, 255);
   margin-top: 3%;
   padding: 8%;
@@ -49,8 +49,13 @@ li{
   color: rgb(0, 0, 0);
 }
  
+.row img{
+  width: 50%;
+}
 
-
+.row{
+  padding-top: 5%;
+}
 /* .scoreboard {
   background: #333;
   width: 700px;
