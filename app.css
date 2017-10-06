@@ -56,6 +56,11 @@ li{
 .row{
   padding-top: 5%;
 }
+
+button a{
+  color: rgb(255, 255, 255);
+}
+
 /* .scoreboard {
   background: #333;
   width: 700px;
